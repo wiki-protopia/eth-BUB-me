@@ -1602,9 +1602,9 @@ var zr = {
                                 pixelHeight: 1250,
                                 pixelWidth: 1667,
                                 sizes: "350px",
-                                src: "https://framerusercontent.com/images/KqUdDvlB3JoWRrG359mLinrCs.png?scale-down-to=1024",
+                                src: "/images/KqUdDvlB3JoWRrG359mLinrCs.png?scale-down-to=1024",
                                 srcSet:
-                                  "https://framerusercontent.com/images/KqUdDvlB3JoWRrG359mLinrCs.png?scale-down-to=512 512w,https://framerusercontent.com/images/KqUdDvlB3JoWRrG359mLinrCs.png?scale-down-to=1024 1024w,https://framerusercontent.com/images/KqUdDvlB3JoWRrG359mLinrCs.png 1667w",
+                                  "/images/KqUdDvlB3JoWRrG359mLinrCs.png?scale-down-to=512 512w,/images/KqUdDvlB3JoWRrG359mLinrCs.png?scale-down-to=1024 1024w,/images/KqUdDvlB3JoWRrG359mLinrCs.png 1667w",
                               },
                             },
                           },
@@ -1625,9 +1625,9 @@ var zr = {
                               pixelHeight: 1250,
                               pixelWidth: 1667,
                               sizes: "516px",
-                              src: "https://framerusercontent.com/images/KqUdDvlB3JoWRrG359mLinrCs.png?scale-down-to=1024",
+                              src: "/images/KqUdDvlB3JoWRrG359mLinrCs.png?scale-down-to=1024",
                               srcSet:
-                                "https://framerusercontent.com/images/KqUdDvlB3JoWRrG359mLinrCs.png?scale-down-to=512 512w,https://framerusercontent.com/images/KqUdDvlB3JoWRrG359mLinrCs.png?scale-down-to=1024 1024w,https://framerusercontent.com/images/KqUdDvlB3JoWRrG359mLinrCs.png 1667w",
+                                "/images/KqUdDvlB3JoWRrG359mLinrCs.png?scale-down-to=512 512w,/images/KqUdDvlB3JoWRrG359mLinrCs.png?scale-down-to=1024 1024w,/images/KqUdDvlB3JoWRrG359mLinrCs.png 1667w",
                             },
                             className: "framer-1ibcq40",
                             "data-framer-name": "GM",
